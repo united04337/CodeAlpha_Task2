@@ -33,3 +33,6 @@ This project is created for educational purposes as part of the CodeAlpha intern
 - CodeAlpha for the internship opportunity
 - Cybersecurity community for best practices
 - OWASP and SANS for security guidelines
+
+
+**Note : The task file also includes a simple powerpoint presentation sharing the same goals of the task!
